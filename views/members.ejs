@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/navbar.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <title>Ekibimiz</title>
+</head>
+<body>
+    <%- include('partials/navbar') %>
+    <div class="members-navbar">
+        <ul>
+            <li class="members-navbar-item">Genel Yayın Yönetmeni</li>
+            <li class="members-navbar-item">Bilişim ve Tasarım Birimi</li>
+            <li class="members-navbar-item">Editörler</li>
+            <li class="members-navbar-item">Yazarlar</li>
+        </ul>
+    </div>
+    <div class="members-area-container">
+        <div class="members-area visible">
+            <ul>
+
+            <% authors.forEach(author => { %>
+             <% if (author.department === "gyy") { %>
+              <li><a href="/member-detail/<%= author.id %>"><%= `${author.name} - ${author.kose}` %></a></li>
+             <% } %>
+            <% }) %>
+
+            </ul>
+        </div>
+        <div class="members-area m2">
+            <ul>
+
+                <% authors.forEach(author => { %>
+                 <% if (author.department === "itdes") { %>
+                  <li><a href="/member-detail/<%= author.id %>"><%= `${author.name} - ${author.kose}` %></a></li>
+                 <% } %>
+                <% }) %>
+    
+                </ul>
+        </div>
+
+        <div class="members-area m3">
+            <ul>
+
+                <% authors.forEach(author => { %>
+                 <% if (author.department === "editor") { %>
+                  <li><a href="/member-detail/<%= author.id %>"><%= `${author.name} - ${author.kose}` %></a></li>
+                 <% } %>
+                <% }) %>
+    
+                </ul>
+        </div>
+
+        <div class="members-area m3">
+            <ul>
+
+                <% authors.forEach(author => { %>
+                 <% if (author.department === "yazarlar") { %>
+                  <li><a href="/member-detail/<%= author.id %>"><%= `${author.name} - ${author.kose}` %></a></li>
+                 <% } %>
+                <% }) %>
+    
+                </ul>
+        </div>
+    </div>
+    <%- include('partials/footer') %>
+    
+    <script src="javascript/members-table.js"></script>
+</body>
+</html>

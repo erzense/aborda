@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/navbar.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <title>Arşiv</title>
+</head>
+<body>
+    <%- include('partials/navbar') %>
+    <div class="archive-container">
+        <% magazines.forEach(magazine => { %>
+            <div class="archive-magazine">
+                <a href="<%= magazine.link %>"><img src="<%= magazine.image %>" alt="" width="300" height="400px"></a>
+                <h3 style="text-align: center;"><%= magazine.name %></h3>
+            </div>
+        <% }) %>
+        
+    </div>
+    <%- include('partials/footer') %>
+</body>
+</html>
