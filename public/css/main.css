@@ -79,6 +79,10 @@ a:visited{
     margin-right: 10px;
 }
 
+.members-navbar li{
+    color: #146c94;
+}
+
 .members-area-container .members-area{
     visibility: hidden;
     overflow-y: scroll;
@@ -160,7 +164,7 @@ a:visited{
 
 @media screen and (max-width: 968px) {
     .about-content{
-        height: 2000px;
+        height: 1600px;
         font-size: 15px;
         padding: 70px 0px;
     }
