@@ -89,6 +89,15 @@ a:visited{
     visibility: visible;
 }
 
+.members-area-container .members-area li{
+    margin-bottom: 7px;
+    border-bottom: 2px dotted black;
+}
+
+.members-area-container .members-area li:nth-child(even){
+    background-color: #c4bebe;
+}
+
 
 .members-area-container .members-area{
     position: absolute;
@@ -118,12 +127,25 @@ a:visited{
 
 .about-content{
     width: 100%;
-    height: 800px;
+    height: auto;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     margin: 70px 0px;
     padding: 5% 0;
+}
+
+.about-content .kunye{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.about-content .kunye h4{
+    color: rgba(0, 0, 0, 0.79);
 }
 
 .about-content .about{
@@ -141,6 +163,14 @@ a:visited{
     .about-content{
         height: 1500px;
         font-size: 15px;
+        padding: 70px 0px;
+    }
+
+    .about-content h3{
+        font-size: 16px;
+    }
+    .about-content h4{
+        font-size: 14px;
     }
 
     .members-navbar{
