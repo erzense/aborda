@@ -11,12 +11,19 @@
 <body>
     <%- include('partials/navbar') %>
     <div class="archive-container">
-        <% magazines.forEach(magazine => { %>
-            <div class="archive-magazine">
-                <a href="<%= magazine.link %>"><img src="<%= magazine.image %>" alt="" width="300" height="400px"></a>
-                <h3 style="text-align: center;"><%= magazine.name %></h3>
-            </div>
-        <% }) %>
+        <% if (magazines.length >= 1) { %>
+            <% magazines.forEach(magazine => { %>
+                <div class="archive-magazine">
+                    <a href="<%= magazine.link %>"><img src="<%= magazine.image %>" alt="" width="300" height="400px"></a>
+                    <h3 style="text-align: center;"><%= magazine.name %></h3>
+                </div>
+            <% }) %>
+        <% } %>
+        <% if (magazines.length < 1) { %>
+            <h3>Henüz Yayınlanmış Bir Dergi Yoktur.</h3>
+        <% } %>
+         
+        
         
     </div>
     <%- include('partials/footer') %>
