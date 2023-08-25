@@ -131,7 +131,7 @@ a:visited{
 .homepage-board{
     width: 100%;
     position: relative;
-    bottom: 175px;
+    bottom: 225px;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
