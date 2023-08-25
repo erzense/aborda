@@ -185,35 +185,49 @@
         "id":30,
         "name":"Erdem Dönmezkuş",
         "department":"editor",
-        "kose":"-",
+        "kose":"Editör",
         "desc":"Erdem Dönmezkuş, Sakarya Üniversitesi Uluslararası İlişkiler bölümü mezunudur. Güncel olarak Azınlık Hakları, Karşılaştırmalı Uluslararası Siyaset, Doğu Avrupa Bölgesi Çalışmaları üzerine akademik araştırmalar yapmaktadır. Önceki dönemlerde Üniversite'nin Araştırma Merkezinde Araştırma Asistanlığı yapmıştır ve bir dergide kurumsal iletişim sorumluluğunda bulunmuştur. Aynı zamanda, yayınlanmış bulunan akademik makaleleri de mevcuttur."
     },
     {
         "id":31,
         "name":"Ali İlhan",
         "department":"editor",
-        "kose":"-",
+        "kose":"Editör",
         "desc":"Ali Faik İlhan, Maltepe Üniversitesi Hukuk Fakültesi 4. sınıf öğrencisidir. Daha önce dergi çıkarmış olma tecrübesinin yanında, güncel olarak bilim ve evrim temalı mecralarda yazarlık yapmaktadır. Çalıştığı hukuk dalları haricinde sosyobiyoloji, etoloji, iktisat ve antropoloji üzerine akademik çalışmalarına devam etmektedir."
     },
     {
         "id":32,
         "name":"Çağrı Eker",
         "department":"editor",
-        "kose":"-",
+        "kose":"Editör",
         "desc":"Çağrı Eker Marmara Üniversitesi Siyasal Bilgiler Fakültesi Yerel Yönetimler bölümünde öğrenim görmektedir. Göç Araştırmaları Vakfı’nda Göç ve Diaspora Çalışmaları, İç Göç ve Segregasyon Politikaları üzerine araştırmalar yapmıştır. Haricen yerel siyaset, mahalli idareler, kamu yönetimi ve yönetim bilimi, kent araştırmaları ve kent sosyolojisi üzerine çalışmaları mevcuttur."
     },
     {
         "id":33,
         "name":"Simay Ayas",
         "department":"editor",
-        "kose":"-",
+        "kose":"Editör",
         "desc":"Simay Ayas, Maltepe Üniversitesi Hukuk Fakültesi 4. Sınıf öğrencisidir. Güncel olarak Ceza hukuku ve ticaret hukuku üzerine araştırmalar yapmaktadır. Aynı zamanda güncel Yargıtay kararlarını takip ederek somut olaylar üzerinden değerlendirmekte ve gündelik olaylara indirgemektedir. Ceza ve ticaret hukuku üzerine stajlarına devam etmektedir. Halihazırda sonlandırmaya yaklaştığı romanı mevcuttur."
     },
     {
         "id":34,
         "name":"Alara Büşra Ergen",
         "department":"editor",
-        "kose":"-",
+        "kose":"Editör",
         "desc":"Alara Büşra Ergen, Marmara Üniversitesi Fransızca Siyaset Bilimi ve Kamu Yönetimi bölümü öğrencisidir. Yayıncılık dünyasında öncü konumdaki bir takım dergilerde içerik yazarlığı yapmış; lise döneminden itibaren yakından ilgilendiği Kültür Sanat, Avrupa ve Uygarlık Tarihi gibi alanlarda çeşitli yazıları yayımlanmıştır. Yazarlığın yanı sıra profesyonel anlamda Haber Editörü pozisyonunda çalışmıştır. Fransızca ve İngilizce dil yeterlilikleriyle bağlantılı olarak çeşitli alanlara yönelik makale ve yazı incelemeleri mevcuttur."
+    },
+    {
+        "id":35,
+        "name":"Utkucan Uğur",
+        "department":"itdes",
+        "kose":"Bilişim ve Tasarım",
+        "desc":"Utkucan Uğur, Lokman Hekim Üniversitesi Dil ve Konuşma Terapisi Bölümü öğrencisidir. Çeşitli konferanslarda ve projelerde yer alarak website tasarımı/düzenlemesi alanlarında katkı sunmuştur. Bu faaliyetlerinin yanı sıra çeşitli etkinliklerin bilişim ekiplerinde de yer almıştır. Güncel olarak Aborda Dergi bünyesindeki Bilişim Ekibinde yer almaktadır."
+    },
+    {
+        "id":36,
+        "name":"Mehmed Ali Oktay",
+        "department":"itdes",
+        "kose":"Bilişim ve Tasarım",
+        "desc":"Mehmed Ali Oktay, Erünal Sosyal Bilimler Lisesi öğrencisidir. Tasarım ve medya yönetimi alanında konferans ve sosyal etkinliklerde rol almıştır. Aborda Dergi'nin Bilişim ve Tasarım biriminde yer almaktadır."
     }
 ]
