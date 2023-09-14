@@ -1,233 +1,233 @@
 [
-    {   
-        "id":1,
-        "name":"Eren Eroğulları",
-        "department":"yazarlar",
-        "kose":"Cumhuriyet Köşesi",
-        "desc":"Eren Eroğulları, güncel olarak İstanbul Üniversitesi Hukuk Fakültesi öğrencisidir. Aborda Dergi'nin kurucu Genel Yayın Yönetmeni ve Cumhuriyet Köşesi yazarıdır. Lise hayatında siyasete ve yakın dönem Türk tarihine ilgi duymuştur. Bu alanda yazdığı amatör yazılar, okuduğu kitaplar ve katıldığı bilgilendirici etkinlikler vesilesiyle Cumhuriyet tarihi hakkında bakış açısı katıcı yazılar sunmayı amaçlamaktadır. Cumhuriyet Köşesi, 100 yıllık Cumhuriyet deneyimini anekdotlar ve psikososyal bir bakış açısı üzerinden ele almak çizgisinde kurgulanmıştır. Türk tarihine atıflar yapar ve sosyogenetik bulgularımızı Cumhuriyetin ışığıyla irdeler tarzdadır. Köşenin iddiası, Türk toplumunun geçmişinden bugününe gelen toplumsal reflekslerini, oluşturduğu arz-talep dengelerini ve çağdaş yaşama adaptasyonunu analiz etmek doğrultusundadır"
-    },
-    {   
-        "id":2,
-        "name":"Yusuf Taha Eker",
-        "department":"yazarlar",
-        "kose":"Performans Sanatları Köşesi",
-        "desc":"Yusuf Taha Eker, Galatasaray Lisesi mezunudur. Amerika'da Politika-Uluslararası ilişkiler okumaktadır. Aborda Dergi'nin Performans Sanatları Köşesi yazarıdır. Farklı öğrenci dergilerinde de kurucu, yazar ya da editör olarak görev almıştır ve güncel olarak Galatasaray Lisesi mezunlarının kurduğu Pervaz dergisinde tiyatro yazıları yazmaktadır. Bir sene rejiliğini yaptığı Galatasaray Lisesi Tiyatro topluluğu'nda 5 sene bulunmuş ve 4 oyunda oyunculuk yapmıştır. Köşe, ağırlıklı olarak tiyatro ve sinema eserlerini ve akımlarını yazarın perspektifinden incelemek üzerinedir."
-    },
-    {   
-        "id":3,
-        "name":"Aybike Vreskala",
-        "department":"yazarlar",
-        "kose":"Geldim, Gördüm, Yedim Köşesi",
-        "desc":"Aybike, Hacettepe Üniversitesi'nde İngilizce/Fransızca Mütercim Tercümanlık bölümünde çift ana dal yapmakta ve aynı zamanda Anadolu Üniversitesi'nde Bilgisayar Programcılığı alanında eğitim almaktadır. Seyahat etmeye ve keşfetmeye olan sevgisi, sadece bakış açısını genişletmekle kalmamış, aynı zamanda kişisel ve mesleki gelişimine katkıda bulunmuştur. Geldim, gördüm, yedim köşesinde seyahat ve yemekle ilgili köşe yazıları yazarak, okuyucularını farklı coğrafyalara götürmeyi ve onlara yeni tatlar sunmayı hedeflemektedir. Köşe yazıları, hem seyahat edenlerin deneyimlerini paylaşmayı hem de yerel mutfak kültürünü anlatmayı içeriyor. Köşe yazılarıyla hem seyahatseverlere rehberlik etmeyi hem de gastronomi dünyasında yeni deneyimler yaşamak isteyen seyahatseverlere gezi planlama, lezzetli yemeklerin tadını çıkarma ve farklı kültürleri anlama konularında kılavuzluk ederken, aynı zamanda okuyucularını yeni deneyimler yaşamaya teşvik etme doğrultusundadır."
-    },
-    {   
-        "id":4,
-        "name":"Mustafa Yiğit Özdemir",
-        "department":"yazarlar",
-        "kose":"Fizik Atlası Köşesi",
-        "desc":"Mustafa Yiğit Özdemir, şu anda Ankara Üniversitesi Tıp Fakültesinde öğrenim görmektedir. Aborda Dergi'nin Fizik Atlası Köşesi yazarıdır. Küçüklüğünden beri bilime ilgi duymuş, belgeseller izlemiştir. İlerleyen yaşlarında fizik hakkında kitaplar okumuş, bilimsel etkinlikleri ve söyleşileri takip etmiştir. Fizik Atlası Köşesinde fizik alanında kazandığı bilgi ve birikimi başkalarına aktarmak, insanların bu alana olan ilgi ve merakını artırmayı hedeflemektedir. Fizik alanındaki konuları en sade ve anlaşılır bir biçimde kurgulanmasını, bu alanda fazla birikimi olmayanların da bu kaynaktan en iyi şekilde faydalanabilmesini sağlamak hedefindedir."
-    },
-    {   
-        "id":7,
-        "name":"Çağrı Eker",
-        "department":"yazarlar",
-        "kose":"Siyaset Teorisi Köşesi",
-        "desc":"Çağrı Eker Marmara Üniversitesi Siyasal Bilgiler Fakültesi Yerel Yönetimler bölümü öğrencisidir. Aborda Dergi’nin editörü ve aynı zamanda siyaset köşesi yazarıdır. Başlıca ilgi alanları siyaset teorileri, göç çalışmaları, kent araştırmaları ve kent sosyolojisidir.        Dergi yazarlarının içeriklerini editör sıfatıyla düzenleme ve inceleme görevinin yanı sıra yazarı olacağı köşede siyasal düşünceler üzerine güncel ve teorik incelemeleri başta olmak üzere; siyaset-toplum, siyaset-tarih ve siyaset-bürokrasi ilişkileri üzerine yazılarıyla dergiye ve okurlara katkı sağlamayı amaçlamaktadır."
-    },
-    {   
-        "id":8,
-        "name":"Doruk Esen",
-        "department":"yazarlar",
-        "kose":"Endüstri Köşesi",
-        "desc":"Doruk Esen, güncel olarak Özyeğin Üniversitesinde Endüstri Mühendisliği lisans öğrencisidir. Aborda Dergi'de Endüstri Köşesi yazardır. Temel ve orta öğrenimi süresince tıbba ilgi duymasına rağmen yakın çevresiyle yaptığı diyaloglar ve araştırmalar neticesinde asıl tutkusunun endüstri mühendisliği alanında olduğunu keşfetmiştir. İnsanlık tarihindeki en önemli gelişimlerin toplumun çoğunluğuna yarayan gelişimler olduğunu düşünen yazar, bu gelişimlerin ve icatların az bilinen ama keyifli ve önemli hikayelerini okuyucuyla buluşturmak amacındadır. Endüstri Köşesinin temelinde her gün kullanılan ama arka planı genelde göz ardı edilen ürünlerin ve hizmetlerin neden ve nasıl ortaya çıktığının incelenmesi amacı yatmaktadır. Bu amaca bağlı olarak, endüstri devrimleri ve dahası hakkında kazanım sağlayan okurların merak duygusunun pekiştirilmesi de bir diğer katkı olarak öne çıkmaktadır."
-    },
-    {   
-        "id":9,
-        "name":"Sezin Yaren",
-        "department":"yazarlar",
-        "kose":"Psikoloji Köşesi",
-        "desc":"Sezin Yaren, Ege Üniversitesi Diş Hekimliği Fakültesi öğrencisidir. Çocukluğundan beri okumak ve özellikle de kitaplar, hayatında önemli bir yere sahip olmuştur. Psikolojiyle ilgili kitaplara, araştırmalara ve dizi-film içeriklerine çok ilgilidir. Bu ilgiler üzerinden, Psikoloji Köşesinde bilgilendirici ve bazen de şaşırtıcı gerçekleri sunmayı planlamaktadır. Psikoloji Köşesi; insanın yapısı hakkında ilginç, şaşırtıcı ve daha önce pek de dikkat çekmeyen gerçekliklere ağırlık vererek okur kitlesini bilgilendirmeyi amaçlamaktadır. Bilgi aktarımının yanında, yazarın zaman zaman yer vereceği kitap ve film önerileri de köşenin çeşitliliğini destekler konumdadır."
-    },
-    {   
-        "id":10,
-        "name":"Yağmur Varol",
-        "department":"yazarlar",
-        "kose":"Geldim, Gördüm, Yedim Köşesi",
-        "desc":"Yağmur Varol, İstanbul Üniversitesi Diş Hekimliği Fakültesi öğrencisidir. Aborda Dergi'de Rock Köşesi yazarıdır. İlköğretim döneminde Akdeniz Üniversitesi Devlet Konservatuvarı Müzik Bölümünde yarı zamanlı olarak eğitim görmüş ve buradan mezun olmuştur. Burada gördüğü müzik eğitimi esnasında gitar ile tanışmış, lise hayatında da elektro gitara yönelmiştir. Elektro gitara yönelmesi, Rock müziğe özel bir ilgi duymasını sağlamıştır. Yazar, bu süreç içinde kendisini müziğin teoriği ve pratiği bakımlarından geliştirme fırsatı yakalamıştır. Rock Köşesi’nin amacı; Rock müziği ve bu müziğin vazgeçilmez sanatçılarını, bu sanatçıların ve müziklerinin öykülerini tanıtmak ve anlatmaktır. İçerik bakımından Rock kültürünü duyurmayı amaçlayan bu köşede, ülke genelinde de tüketilen bu kültüre dair farkındalık ve ilgi yaratmayı amaçlamaktadır."
-    },
-    {   
-        "id":11,
-        "name":"Ezo Ferda Topal",
-        "department":"yazarlar",
-        "kose":"Küresel Kültür Köşesi",
-        "desc":"Ezo Ferda Topal, Başkent Üniversitesi Hukuk Fakültesi öğrencisidir ve Aborda Dergi’de Küresel Kültür Köşesi yazarıdır. Öğrenim hayatına başladığından beri var olan dil ve kültür merakı, kendisini farklı kültürel ögeleri araştırmaya ve yeni diller öğrenmeye teşvik etmiştir. Küresel Kültür Köşesi dahilinde yazar, okuyucularına, yüzeysel görünen kültürel normların tarihi ve coğrafi analizlerini yaparak temellendirilmiş ve keyifli bir okuma sağlamayı amaçlamaktadır. Ufuk açıcı bu içeriğin yanı sıra yazar, deneyimlediği seyahatlerde incelemiş olduğu mimari yapılar ve müzelerin kültürel ehemmiyetlerini de aktarma arzusu ile okurlara kültürel aktarım sağlamaktadır."
-    },
-    {   
-        "id":12,
-        "name":"Yunus Emre Akpınar",
-        "department":"yazarlar",
-        "kose":"Tinden Fikre Edebiyat Köşesi",
-        "desc":"Yunus Emre Akpınar, İstanbul Üniversitesi Hukuk Fakültesi'nde öğrenimine devam etmektedir. Aborda Dergi'de Tinden Fikre Edebiyat Köşesi yazarıdır. Öğrenim yıllarının başından itibaren edebiyata ve sanata özel ilgi duyan yazar, lise yıllarında tarih ve politikayla da ilgilenmeye başlamıştır. Zaman zaman havacılık ve uzay sanayi gibi hobisel alanlar hakkında da olmak üzere, edebiyat ve tarih konularında farklı platformlarda yazılar hazırlamıştır. Tinden Fikre Edebiyat Köşesinde ruhun etkilendiği ve etkilediği durumlar, farklı sanatsal ve tarihsel bakış açılarıyla incelenecektir. Bu köşede, içeriksel başlıklara uygun olarak gerek ilkel devirlerden gelen güdülerimize, gerekse tarihi ve kültürel süreç içerisinde oluşturduğumuz bakışa değinilecektir. Köşenin hedefi bakımından, tüm içerikler toplamında, ruhumuzu etkileyen bütün bu hususlar ışığında bir gelecek tasavvuru ortaya konulmaya çalışılacaktır."
-    },
-    {   
-        "id":13,
-        "name":"Pars Asilhan Çıldır",
-        "department":"yazarlar",
-        "kose":"Havacılık Köşesi",
-        "desc":"Pars Asilhan Çıldır, güncel olarak ODTÜ Havacılık ve Uzay Mühendisliği öğrencisidir. Aborda Dergi'nin Havacılık köşesi yazarıdır. Erken yaşlarından beri matematiğe duyduğu ilgi sonraki yıllarda fizik, astronomi, mühendislik gibi alanlara da yayılmıştır. Havacılık alanında aldığı eğitim ve öğrendiği bilgiler vesilesiyle Havacılık hakkında hem teknik hem de anlaşılabilir yazılar sunmayı amaç edinmiştir. Havacılık köşesi; sivil havacılık, askeri havacılık, havacılık mühendisliği, uçak kazaları ve havacılığın daha birçok kolunu bilimsel bir bakış açışı üzerinden ele almak üzerine kurgulanmıştır. Köşenin iddiası; göklerin zorluğunu, acımasızlığının ihtişamını ve önemli yönlerini basitleştirilmiş teoriler ve formüller üzerinden okuyuculara aktarmaktır."
-    },
-    {   
-        "id":14,
-        "name":"Seymen Arslantaş",
-        "department":"yazarlar",
-        "kose":"Düşünceler Tarihi Köşesi",
-        "desc":"Seymen Arslantaş, İstanbul Üniversitesi Hukuk Fakültesinde öğrenimini sürdürmektedir. Aborda Dergi’nin Düşünceler Tarihi Köşesi Yazarıdır. Yaşamı boyunca siyaset felsefesi ve politik kuramlar üzerine araştırmalar yapmış ve siyasetin tarih boyunca nasıl şekillendiğini anlamayı, farklı siyasi ideolojileri kavramayı ve politik olayları analiz etme becerisini geliştirmeyi amaçlamıştır. Düşünceler Tarihi Köşesi; siyasi düşünce akımlarının felsefi temellerini, hangi dönemlerde hangi şartlar altında ortaya çıktıklarını, tarih boyunca nasıl şekillendiklerini, farklı düşünürler tarafından nasıl ele alındıklarını ve son olarak başka siyasi düşünce akımlarına olan etkilerini incelemeyi amaçlar."
-    },
-    {   
-        "id":15,
-        "name":"Erkan Oğuz Çenet",
-        "department":"yazarlar",
-        "kose":"Girişimcilik Köşesi",
-        "desc":"Erkan Oğuz Çenet, güncel olarak İstanbul Üniversitesi Hukuk Fakültesi'nde eğitim görmektedir. Aborda Dergi’nin Girişimcilik Köşesi yazarıdır. Çocukluğundan beri eski oyuncaklarını şehir meydanında satmaya çalışmak gibi alışkanlıkları vesilesiyle girişimciliğe ilgi duymaya başlamıştır. Lise yaşantısı süresince konu üzerine okuduğu kitaplar ve edindiği düşünceler, girişimciliğe ilişkin fikir ve tespitlerinin temelini oluşturmuştur. Küresel skaladaki girişim ve girişimci örneklerini merakla takip etmektedir. Köşenin temel çizgisi; girişimciliğin içindeki inovatif düşünce tarzını hem örnekler aracılığıyla somut bir şekilde, hem de teorik bilgiyle soyut bir şekilde işleyerek okurlara servis etmektir."
-    },
-    {   
-        "id":16,
-        "name":"Mehmet Erkam Bilici",
-        "department":"yazarlar",
-        "kose":"Arabalar Köşesi",
-        "desc":"Mehmet Erkam Bilici, güncel olarak İstanbul Üniversitesi Hukuk Fakültesi öğrencisidir. Aborda Dergi’nin Arabalar köşesi yazarıdır. Küçük yaşlardan itibaren araba tutkunluğu içeren bir ev ortamının da etkisiyle arabalar ile ilgilenmeye ve onlara olan ilgisini özümsemeye başlamıştır. Önceki yıllarda bağlantıları sayesinde sektörel olarak da uğraşma fırsatı bulmuştur. Yazar, köşede bu birikimlerini aktararak diğer araba tutkunları ile bu deneyimlerini paylaşmayı ve arabalara dair ilgiyi arttırmayı amaçlamaktadır. Arabaların tarihi gelişimi, Araba sanayisinin geleceği, sektörel dinamikler gibi konuların yanı sıra galericilik ve teknik alanlar da Arabalar Köşesinin içeriği olacaktır."
-    },
-    {   
-        "id":18,
-        "name":"Mert Cengiz",
-        "department":"yazarlar",
-        "kose":"Genetik Köşesi",
-        "desc":"Mert Cengiz, Bahçeşehir Üniversitesi Moleküler Biyoloji ve Genetik öğrencisidir. Aborda Dergi'nin Genetik Köşesi yazarıdır. Lise ve Üniversite dönemlerinde bilime olan tükenmez ve artarak devam eden merakı, bilim üzerine yazdığı başlangıç düzeyi denemeler, yaptığı araştırmalar ve katıldığı gönüllü stajlar; bilimsel esaslara dair yetkinliğini şekillendirici etkenler olmuştur. Genetik Köşesi'nin amacı; mikro ölçekte biyolojinin işleyişini, genetik mekanizmaların organizmalarda sağladığı regülasyonu, genetiğin makro ölçekte insan yaşamına etkilerini biyolojik temellere dayalı bir anlatım tarzıyla aktarmaktır. Köşenin iddiası, organizmalar için Moleküler Biyoloji ve Genetik prensiplerinin önem derecesini işaret etmek ve okurlara kendi işleyişlerini göstermektir."
-    },
-    {   
-        "id":19,
-        "name":"Burak Eren Ceyhan",
-        "department":"yazarlar",
-        "kose":"Harp Tarihi Köşesi",
-        "desc":"Burak Eren Ceyhan, güncel olarak ODTÜ Uluslararası İlişkiler bölümü öğrencisidir. Aborda Dergi'de Harp Tarihi Köşesi yazarıdır. Lise hayatında katıldığı etkinlikler ve üniversitede dahil olduğu topluluklar ile diplomasiye ve askeri stratejiye olan ana ilgisi doğmuştur. Bu içten ilgiyi çeşitli etkinlikler vasıtasıyla denemiş, lisans eğitimi ile diplomasi merakının izinden ilerlemiştir. Harp Tarihi Köşesinin temel vizyonu, vuku bulan çatışmaların ele alınması ve toplumsal, siyasal, stratejik ve kültürel etkilerine temas etmektir. İçeriklerin yorumlar eşliğinde servisi sayesinde, bilgilendiriciliğin yanında okurların ufkuna katkıda bulunma amacı da söz konusudur. Köşenin iddiası, her alanda boy gösterebilen strateji olgusunun Harp Tarihi açısından seyrine odaklanmak; yaratıcı stratejilerin, pratik zekanın, ileri görüşün ve dirayetin çatışmalar geçmişindeki konumuna ışık tutmaktır."
-    },
-    {   
-        "id":20,
-        "name":"Yılmaz Egemen Oflu",
-        "department":"yazarlar",
-        "kose":"Divan Köşesi",
-        "desc":"Yılmaz Egemen Oflu, Antalya Erünal Sosyal Bilimler Lisesi mezunudur. Aborda Dergi'nin Divan Köşesi yazarıdır. Lise hayatında Türk ve İngiliz edebiyatına, bilhassa Divan edebiyatına ilgi duymuştur. Kendisi bu çerçevede 'Seyyah Kebuter' mahlası ile divan tarzında bir çok şiir yazmış ve bazı şiirleri yerel yayın organlarında paylaşılmıştır. Divan Köşesi, esasen Osmanlı dönemine odaklanmakla beraber erken Cumhuriyet dönemi, erken İslam etkisinde ve İslam etkisi öncesi Türk edebiyatı alanlarını da inceleme kapsamına almaktadır. Bu konular; şiir tahlilleri ve şerhleri, yazar hayatları, edebi motifler ve temalar, ilginç tarihi anekdotlar ve sözcük incelemeleri ile mercek altına alınmaktadır. Divan Köşesi'nin amacı, Türk okurunu unutulmaya yüz tutmuş olan bir kültürü bilinen ve bilinmeyen yönleri ile tanıştırmaktır."
-    },
-    {   
-        "id":21,
-        "name":"Zeynep Abbasgil",
-        "department":"yazarlar",
-        "kose":"Biyoloji Köşesi",
-        "desc":"Zeynep Abbasgil, Sorbonne Üniversitesi Biyoloji Bölümü öğrencisidir. Aborda Dergi’de Biyoloji Kosesi yazarıdır. Küçüklüğünden beri biyolojiye ilgi duymuş olmakla beraber lise sürecinde katıldığı akademik faaliyetler altında biyoloji dersleri almıştır. Okuduğu makaleler, kitaplar ve akademik bakış açısını geliştiren çevresi vesilesiyle yazar; geleceği açısından özellikle hayvanlara ve nörobilime odaklanmış bir doğrultudadır. Biyoloji Köşesi, amacı itibariyle insanları doğanın harmonisi ve kendi bedenleri hakkında bilgilendirmek üzerine yazılar içermektedir. Diğer bir açıdan köşenin işlevi, biyolojiye ilgi duyan insanlara kolay ulaşılabilir şekilde bilgiler sağlamaktır."
-    },
-    {   
-        "id":22,
-        "name":"Başar Kaan Erbek",
-        "department":"yazarlar",
-        "kose":"Biyografi Köşesi",
-        "desc":"Başar Kaan Erbek, Süleyman Demirel Üniversitesi Tıp Fakültesinde öğrencisidir. Aborda Dergi’de Biyografi Köşesi yazarıdır. Çeşitli konular hakkında araştırma yapmayı seven, meraklı ve sorgulayan biridir. Pozitif bilimlerle ve tarihle ilgilidir. Biyografi Köşesi; kimi bilinen, kimi pek bilinmeyen, kimi ise insanların ismen bildiği fakat daha fazlası hakkında bilgi sahibi olmadığı insanların hayat öykülerini okuyucuların meraklı bakışlarının önüne koyma etkisine sahiptir. Köşeye konu olan insanlar ve biyografileri, oldukça bilinen ve alanında önemli bir tarihsel figürden günümüzde yaşamış sıradan bir insana kadar geniş bir skaladan seçilmektedir. Köşenin ve yazarın bu noktadaki amacı; okuyucuyu sıkmayan, günlük hayatın bunalımlı ve stresli temposundan uzaklaştırıcı ve okuyucunun genel kültürüne de olumlu katkısı olacak yazılar sunmak olarak belirmektedir."
-    },
-    {   
-        "id":23,
-        "name":"Simay Ayas",
-        "department":"yazarlar",
-        "kose":"Gündemin Hukuku Köşesi",
-        "desc":"Simay Ayas, güncel olarak Maltepe Üniversitesi Hukuk Fakültesi öğrencisidir. Lise hayatı boyunca okuma ve yazmaya özel bir ilgi duymuştur. Özellikle bu dönemde yazdığı denemeler, amatör kısa hikayeler ve yazımına devam etmekte olduğu bir romanı bulunmaktadır. Keşfetmeye olan eğilimi sayesinde araştırmacı ve yorumlayıcı bir düşünme stiline sahip olmuştur. Bu yetkinliklerini, hukuka olan ilgisiyle harmanlayarak araştırmalar yapmakta ve bilgi verici hukuki yazılar hazırlamaktadır. Gündemin Hukuku Köşesi, Yargıtay kararları ışığında edinilen bilgilere yer verilmesinin yanı sıra, güncel gelişmelerin ve dikkat çeken haberlerin hukuk diliyle açıklanmasını da içeren, farkındalık kazandırıcı nitelikte içerikler sunma doğrultusundadır."
-    },
-    {   
-        "id":24,
-        "name":"Bora Bulan",
-        "department":"yazarlar",
-        "kose":"Uluslararası İlişkiler Köşesi",
-        "desc":"Bora Bulan, güncel olarak Bilkent Üniversitesi Uluslararası İlişkiler Bölümü öğrencisidir. Aktif olarak uluslararası ilişkiler üzerine birçok sayıda etkinliğe katılmakla birlikte Aborda Dergi çatısı altında strateji ve uluslararası ilişkiler üzerine yazılar yazmaktadır. Üniversite hayatı öncesinde askerliğe, şu anda ise harp sanatına ve uluslararası ilişkiler dinamiklerine ilgi duymakla birlikte savaş stratejileri ve uluslararası ilişkiler gündemi üzerine yoğunlaşmaktadır. Uluslararası İlişkiler Köşesi yazıları, günümüzün askeri ve stratejik hamleleri ve bu atılımların tarihten süregelen devlet psikolojisiyle olan ilişkisini ortaya koyacak niteliktedir."
-    },
-    {   
-        "id":25,
-        "name":"Berat Çağan",
-        "department":"yazarlar",
-        "kose":"Jeopolitik Köşesi",
-        "desc":"Berat Çağan, İstanbul Üniversitesi Gazetecilik bölümü lisans öğrencisidir. Aborda Dergi’nin Jeopolitik Köşesi yazarıdır. Tarih ve coğrafya aşığı olmakla beraber sinema ve siyaset kültürüne yüksek raddede ilgisi vardır. Jeopolitik Köşesi'nde küresel siyasetin ve coğrafyanın karmaşık ama ilgi çekici yapısını okurlara analiz etmek amaçlanır. Ufak bir coğrafi bölgenin, hatta kimi zaman iki cephe arasındaki bir tepenin bile milyonlarca insanın hayatında ne gibi varyasyonlara sebep olduğunun konu alındığı bu köşede; karmaşanın asla bitmediği coğrafyalarda İbn-i Haldun’un o meşhur sözünün haklılığını da her daim tartışmaya ilave ederek okuyucuya aktarmak esastır."
-    },
-    {   
-        "id":26,
-        "name":"Alya Nisa Torpil",
-        "department":"yazarlar",
-        "kose":"Animalia Köşesi",
-        "desc":"Alya Nisa Torpil, Ankara Üniversitesi Veteriner Fakültesi öğrencisidir. Aborda Dergi’nin Animalia Köşesi yazarıdır. Hayvanlara olan ilgisi çocukluğuna dayanmaktadır. Lise hayatı boyunca büyük ilgi duyduğu biyoloji üzerine araştırmalar yapmış ve projelerde yer almıştır. Animalia Köşesinde, çoğunlukla evcil memeli hayvanların olması yanı sıra yabani ve egzotik hayvanların, onların iç dünyalarının ve veteriner hekimliğin daha iyi anlaşılması üzerine tasarlanmış yazılar oluşmaktadır. Hayvanların vücut dilleriyle alakalı bilgilendirici metinler paylaşılarak onların daha rahat anlaşmasını sağlamak, köşenin esas hedeflerinden birisidir. Animalia Köşesi ve yazarının gayesi, insanlara hayvanların görünenin ve duyulanın çok ötesinde anlamlar yaydığını anlatmak, aynı zamanda da veteriner hekimlerin sadece hayvan sağlığına değil, hayvanlar kadar insan sağlığına da hizmet ettiğini izah etmektir."
-    },
-    {   
-        "id":27,
-        "name":"Burak Esen",
-        "department":"yazarlar",
-        "kose":"Yoklama Defteri Köşesi",
-        "desc":"Burak Esen, İstanbul Üniversitesi - Cerrahpaşa İngilizce Öğretmenliği öğrencisi ve stajyer öğretmendir. Aborda Dergi'de Yoklama Defteri Köşesi yazarıdır. Lise hayatından beri iklim aktivizmi alanında yüttüğü çalışmalarının ulaştığı başarılar ile yakaladığı motivasyon üzerine eğitim, ekonomi, katılımcılık gibi konularda da STKlarda ve sivil insiystiflerde bulunmuştur ve bu çizgideki çalışmalarına devam etmektedir. Yazar, eğitim alanında kaleme alınan kolektif bir kitabın yazımında da yer almış ve katkı vermiştir. Yoklama Defteri Köşesi, eğitim sisteminin yoklamasının alındığı, eksik ve doğru yerlerinin gündeme alınarak çeşitli ülkeler ve düşünürlerin fikirlerinden yola çıkan bir sentez yaratmayı amaçlar. Köşe, eğitim sisteminin herkesin potansiyelini ortaya çıkarabildiği bir sistem olması gerektiği savına hakkında bilinçlendirici içerikler sunmaktadır."
-    },
-    {   
-        "id":28,
-        "name":"Eren Eroğulları",
-        "department":"gyy",
-        "kose":"Genel Yayın Yönetmeni",
-        "desc":"Eren Eroğulları - Genel Yayın Yönetmeni\n Aborda Dergi'nin alt birimleri arasındaki senkronize çalışmayı, genel anlamda yayın işleyişini ve iç düzenin sağlanmasını sağlayan birim Genel Yayın Yönetmenliğidir. Eren Eroğulları, derginin kurucu Genel Yayın Yönetmeni statüsüyle bu işleyişi sağlamakta ve organizasyona katkı sunmaktadır. Daha önceki dönemlerde küçük çaplı ve kısa süreli atılımlar ve medya/yayıncılık uğraşları ile tecrübe edinmiş olan yönetmen, Aborda ismi altında öngörülen kurumsal yapılanma ve esas alınan vizyon ile dinamik bir 'Gençlik Medyası Oyuncusu' oluşturma hedefindedir. Kendisi aynı zamanda Cumhuriyet Köşesi dahilindeki yazılarıyla da dergi içeriğine dokunuş yapmaktadır."
-    },
-    {
-        "id":29,
-        "name":"Eray Ersan",
-        "department":"itdes",
-        "kose":"Bilişim ve Tasarım Birimi Direktörü",
-        "desc":"Eray Ersan Aborda Dergi'nin bilişim alanındaki faaliyetlerini yürütmek üzere Bilişim Birimi Direktörü görevini yerine getirmektedir. Eray Ersan İstanbul Üniversitesi Hukuk Fakültesi öğrencisidir. Eray Ersan aynı zamanda Aborda Dergi'nin internet sitesinin yazılımı aşamasında görev almıştır."
-    },
-    {
-        "id":30,
-        "name":"Erdem Dönmezkuş",
-        "department":"editor",
-        "kose":"Editör",
-        "desc":"Erdem Dönmezkuş, Sakarya Üniversitesi Uluslararası İlişkiler bölümü mezunudur. Güncel olarak Azınlık Hakları, Karşılaştırmalı Uluslararası Siyaset, Doğu Avrupa Bölgesi Çalışmaları üzerine akademik araştırmalar yapmaktadır. Önceki dönemlerde Üniversite'nin Araştırma Merkezinde Araştırma Asistanlığı yapmıştır ve bir dergide kurumsal iletişim sorumluluğunda bulunmuştur. Aynı zamanda, yayınlanmış bulunan akademik makaleleri de mevcuttur."
-    },
-    {
-        "id":31,
-        "name":"Ali İlhan",
-        "department":"editor",
-        "kose":"Editör",
-        "desc":"Ali Faik İlhan, Maltepe Üniversitesi Hukuk Fakültesi 4. sınıf öğrencisidir. Daha önce dergi çıkarmış olma tecrübesinin yanında, güncel olarak bilim ve evrim temalı mecralarda yazarlık yapmaktadır. Çalıştığı hukuk dalları haricinde sosyobiyoloji, etoloji, iktisat ve antropoloji üzerine akademik çalışmalarına devam etmektedir."
-    },
-    {
-        "id":32,
-        "name":"Çağrı Eker",
-        "department":"editor",
-        "kose":"Editör",
-        "desc":"Çağrı Eker Marmara Üniversitesi Siyasal Bilgiler Fakültesi Yerel Yönetimler bölümünde öğrenim görmektedir. Göç Araştırmaları Vakfı’nda Göç ve Diaspora Çalışmaları, İç Göç ve Segregasyon Politikaları üzerine araştırmalar yapmıştır. Haricen yerel siyaset, mahalli idareler, kamu yönetimi ve yönetim bilimi, kent araştırmaları ve kent sosyolojisi üzerine çalışmaları mevcuttur."
-    },
-    {
-        "id":33,
-        "name":"Simay Ayas",
-        "department":"editor",
-        "kose":"Editör",
-        "desc":"Simay Ayas, Maltepe Üniversitesi Hukuk Fakültesi 4. Sınıf öğrencisidir. Güncel olarak Ceza hukuku ve ticaret hukuku üzerine araştırmalar yapmaktadır. Aynı zamanda güncel Yargıtay kararlarını takip ederek somut olaylar üzerinden değerlendirmekte ve gündelik olaylara indirgemektedir. Ceza ve ticaret hukuku üzerine stajlarına devam etmektedir. Halihazırda sonlandırmaya yaklaştığı romanı mevcuttur."
-    },
-    {
-        "id":34,
-        "name":"Alara Büşra Ergen",
-        "department":"editor",
-        "kose":"Editör",
-        "desc":"Alara Büşra Ergen, Marmara Üniversitesi Fransızca Siyaset Bilimi ve Kamu Yönetimi bölümü öğrencisidir. Yayıncılık dünyasında öncü konumdaki bir takım dergilerde içerik yazarlığı yapmış; lise döneminden itibaren yakından ilgilendiği Kültür Sanat, Avrupa ve Uygarlık Tarihi gibi alanlarda çeşitli yazıları yayımlanmıştır. Yazarlığın yanı sıra profesyonel anlamda Haber Editörü pozisyonunda çalışmıştır. Fransızca ve İngilizce dil yeterlilikleriyle bağlantılı olarak çeşitli alanlara yönelik makale ve yazı incelemeleri mevcuttur."
-    },
-    {
-        "id":35,
-        "name":"Utkucan Uğur",
-        "department":"itdes",
-        "kose":"Bilişim ve Tasarım Birimi Üyesi",
-        "desc":"Utkucan Uğur, Lokman Hekim Üniversitesi Dil ve Konuşma Terapisi Bölümü öğrencisidir. Çeşitli konferanslarda ve projelerde yer alarak website tasarımı/düzenlemesi alanlarında katkı sunmuştur. Bu faaliyetlerinin yanı sıra çeşitli etkinliklerin bilişim ekiplerinde de yer almıştır. Güncel olarak Aborda Dergi bünyesindeki Bilişim Ekibinde yer almaktadır."
-    },
-    {
-        "id":36,
-        "name":"Mehmed Ali Oktay",
-        "department":"itdes",
-        "kose":"Bilişim ve Tasarım Birimi Üyesi",
-        "desc":"Mehmed Ali Oktay, Erünal Sosyal Bilimler Lisesi öğrencisidir. Tasarım ve medya yönetimi alanında konferans ve sosyal etkinliklerde rol almıştır. Aborda Dergi'nin Bilişim ve Tasarım biriminde yer almaktadır."
-    }
+  {
+    "id": 1,
+    "name": "Eren Eroğulları",
+    "department": "yazarlar",
+    "kose": "Cumhuriyet Köşesi",
+    "desc": "Eren Eroğulları, güncel olarak İstanbul Üniversitesi Hukuk Fakültesi öğrencisidir. Aborda Dergi'nin kurucu Genel Yayın Yönetmeni ve Cumhuriyet Köşesi yazarıdır. Lise hayatında siyasete ve yakın dönem Türk tarihine ilgi duymuştur. Bu alanda yazdığı amatör yazılar, okuduğu kitaplar ve katıldığı bilgilendirici etkinlikler vesilesiyle Cumhuriyet tarihi hakkında bakış açısı katıcı yazılar sunmayı amaçlamaktadır. Cumhuriyet Köşesi, 100 yıllık Cumhuriyet deneyimini anekdotlar ve psikososyal bir bakış açısı üzerinden ele almak çizgisinde kurgulanmıştır. Türk tarihine atıflar yapar ve sosyogenetik bulgularımızı Cumhuriyetin ışığıyla irdeler tarzdadır. Köşenin iddiası, Türk toplumunun geçmişinden bugününe gelen toplumsal reflekslerini, oluşturduğu arz-talep dengelerini ve çağdaş yaşama adaptasyonunu analiz etmek doğrultusundadır"
+  },
+  {
+    "id": 2,
+    "name": "Yusuf Taha Eker",
+    "department": "yazarlar",
+    "kose": "Performans Sanatları Köşesi",
+    "desc": "Yusuf Taha Eker, Galatasaray Lisesi mezunudur. Amerika'da Politika-Uluslararası ilişkiler okumaktadır. Aborda Dergi'nin Performans Sanatları Köşesi yazarıdır. Farklı öğrenci dergilerinde de kurucu, yazar ya da editör olarak görev almıştır ve güncel olarak Galatasaray Lisesi mezunlarının kurduğu Pervaz dergisinde tiyatro yazıları yazmaktadır. Bir sene rejiliğini yaptığı Galatasaray Lisesi Tiyatro topluluğu'nda 5 sene bulunmuş ve 4 oyunda oyunculuk yapmıştır. Köşe, ağırlıklı olarak tiyatro ve sinema eserlerini ve akımlarını yazarın perspektifinden incelemek üzerinedir."
+  },
+  {
+    "id": 3,
+    "name": "Aybike Vreskala",
+    "department": "yazarlar",
+    "kose": "Geldim, Gördüm, Yedim Köşesi",
+    "desc": "Aybike, Hacettepe Üniversitesi'nde İngilizce/Fransızca Mütercim Tercümanlık bölümünde çift ana dal yapmakta ve aynı zamanda Anadolu Üniversitesi'nde Bilgisayar Programcılığı alanında eğitim almaktadır. Seyahat etmeye ve keşfetmeye olan sevgisi, sadece bakış açısını genişletmekle kalmamış, aynı zamanda kişisel ve mesleki gelişimine katkıda bulunmuştur. Geldim, gördüm, yedim köşesinde seyahat ve yemekle ilgili köşe yazıları yazarak, okuyucularını farklı coğrafyalara götürmeyi ve onlara yeni tatlar sunmayı hedeflemektedir. Köşe yazıları, hem seyahat edenlerin deneyimlerini paylaşmayı hem de yerel mutfak kültürünü anlatmayı içeriyor. Köşe yazılarıyla hem seyahatseverlere rehberlik etmeyi hem de gastronomi dünyasında yeni deneyimler yaşamak isteyen seyahatseverlere gezi planlama, lezzetli yemeklerin tadını çıkarma ve farklı kültürleri anlama konularında kılavuzluk ederken, aynı zamanda okuyucularını yeni deneyimler yaşamaya teşvik etme doğrultusundadır."
+  },
+  {
+    "id": 4,
+    "name": "Mustafa Yiğit Özdemir",
+    "department": "yazarlar",
+    "kose": "Fizik Atlası Köşesi",
+    "desc": "Mustafa Yiğit Özdemir, şu anda Ankara Üniversitesi Tıp Fakültesinde öğrenim görmektedir. Aborda Dergi'nin Fizik Atlası Köşesi yazarıdır. Küçüklüğünden beri bilime ilgi duymuş, belgeseller izlemiştir. İlerleyen yaşlarında fizik hakkında kitaplar okumuş, bilimsel etkinlikleri ve söyleşileri takip etmiştir. Fizik Atlası Köşesinde fizik alanında kazandığı bilgi ve birikimi başkalarına aktarmak, insanların bu alana olan ilgi ve merakını artırmayı hedeflemektedir. Fizik alanındaki konuları en sade ve anlaşılır bir biçimde kurgulanmasını, bu alanda fazla birikimi olmayanların da bu kaynaktan en iyi şekilde faydalanabilmesini sağlamak hedefindedir."
+  },
+  {
+    "id": 7,
+    "name": "Çağrı Eker",
+    "department": "yazarlar",
+    "kose": "Siyaset Teorisi Köşesi",
+    "desc": "Çağrı Eker Marmara Üniversitesi Siyasal Bilgiler Fakültesi Yerel Yönetimler bölümü öğrencisidir. Aborda Dergi’nin editörü ve aynı zamanda siyaset köşesi yazarıdır. Başlıca ilgi alanları siyaset teorileri, göç çalışmaları, kent araştırmaları ve kent sosyolojisidir.        Dergi yazarlarının içeriklerini editör sıfatıyla düzenleme ve inceleme görevinin yanı sıra yazarı olacağı köşede siyasal düşünceler üzerine güncel ve teorik incelemeleri başta olmak üzere; siyaset-toplum, siyaset-tarih ve siyaset-bürokrasi ilişkileri üzerine yazılarıyla dergiye ve okurlara katkı sağlamayı amaçlamaktadır."
+  },
+  {
+    "id": 8,
+    "name": "Doruk Esen",
+    "department": "yazarlar",
+    "kose": "Endüstri Köşesi",
+    "desc": "Doruk Esen, güncel olarak Özyeğin Üniversitesinde Endüstri Mühendisliği lisans öğrencisidir. Aborda Dergi'de Endüstri Köşesi yazardır. Temel ve orta öğrenimi süresince tıbba ilgi duymasına rağmen yakın çevresiyle yaptığı diyaloglar ve araştırmalar neticesinde asıl tutkusunun endüstri mühendisliği alanında olduğunu keşfetmiştir. İnsanlık tarihindeki en önemli gelişimlerin toplumun çoğunluğuna yarayan gelişimler olduğunu düşünen yazar, bu gelişimlerin ve icatların az bilinen ama keyifli ve önemli hikayelerini okuyucuyla buluşturmak amacındadır. Endüstri Köşesinin temelinde her gün kullanılan ama arka planı genelde göz ardı edilen ürünlerin ve hizmetlerin neden ve nasıl ortaya çıktığının incelenmesi amacı yatmaktadır. Bu amaca bağlı olarak, endüstri devrimleri ve dahası hakkında kazanım sağlayan okurların merak duygusunun pekiştirilmesi de bir diğer katkı olarak öne çıkmaktadır."
+  },
+  {
+    "id": 9,
+    "name": "Sezin Yaren",
+    "department": "yazarlar",
+    "kose": "Psikoloji Köşesi",
+    "desc": "Sezin Yaren, Ege Üniversitesi Diş Hekimliği Fakültesi öğrencisidir. Çocukluğundan beri okumak ve özellikle de kitaplar, hayatında önemli bir yere sahip olmuştur. Psikolojiyle ilgili kitaplara, araştırmalara ve dizi-film içeriklerine çok ilgilidir. Bu ilgiler üzerinden, Psikoloji Köşesinde bilgilendirici ve bazen de şaşırtıcı gerçekleri sunmayı planlamaktadır. Psikoloji Köşesi; insanın yapısı hakkında ilginç, şaşırtıcı ve daha önce pek de dikkat çekmeyen gerçekliklere ağırlık vererek okur kitlesini bilgilendirmeyi amaçlamaktadır. Bilgi aktarımının yanında, yazarın zaman zaman yer vereceği kitap ve film önerileri de köşenin çeşitliliğini destekler konumdadır."
+  },
+  {
+    "id": 10,
+    "name": "Yağmur Varol",
+    "department": "yazarlar",
+    "kose": "Rock Köşesi",
+    "desc": "Yağmur Varol, İstanbul Üniversitesi Diş Hekimliği Fakültesi öğrencisidir. Aborda Dergi'de Rock Köşesi yazarıdır. İlköğretim döneminde Akdeniz Üniversitesi Devlet Konservatuvarı Müzik Bölümünde yarı zamanlı olarak eğitim görmüş ve buradan mezun olmuştur. Burada gördüğü müzik eğitimi esnasında gitar ile tanışmış, lise hayatında da elektro gitara yönelmiştir. Elektro gitara yönelmesi, Rock müziğe özel bir ilgi duymasını sağlamıştır. Yazar, bu süreç içinde kendisini müziğin teoriği ve pratiği bakımlarından geliştirme fırsatı yakalamıştır. Rock Köşesi’nin amacı; Rock müziği ve bu müziğin vazgeçilmez sanatçılarını, bu sanatçıların ve müziklerinin öykülerini tanıtmak ve anlatmaktır. İçerik bakımından Rock kültürünü duyurmayı amaçlayan bu köşede, ülke genelinde de tüketilen bu kültüre dair farkındalık ve ilgi yaratmayı amaçlamaktadır."
+  },
+  {
+    "id": 11,
+    "name": "Ezo Ferda Topal",
+    "department": "yazarlar",
+    "kose": "Küresel Kültür Köşesi",
+    "desc": "Ezo Ferda Topal, Başkent Üniversitesi Hukuk Fakültesi öğrencisidir ve Aborda Dergi’de Küresel Kültür Köşesi yazarıdır. Öğrenim hayatına başladığından beri var olan dil ve kültür merakı, kendisini farklı kültürel ögeleri araştırmaya ve yeni diller öğrenmeye teşvik etmiştir. Küresel Kültür Köşesi dahilinde yazar, okuyucularına, yüzeysel görünen kültürel normların tarihi ve coğrafi analizlerini yaparak temellendirilmiş ve keyifli bir okuma sağlamayı amaçlamaktadır. Ufuk açıcı bu içeriğin yanı sıra yazar, deneyimlediği seyahatlerde incelemiş olduğu mimari yapılar ve müzelerin kültürel ehemmiyetlerini de aktarma arzusu ile okurlara kültürel aktarım sağlamaktadır."
+  },
+  {
+    "id": 12,
+    "name": "Yunus Emre Akpınar",
+    "department": "yazarlar",
+    "kose": "Tinden Fikre Edebiyat Köşesi",
+    "desc": "Yunus Emre Akpınar, İstanbul Üniversitesi Hukuk Fakültesi'nde öğrenimine devam etmektedir. Aborda Dergi'de Tinden Fikre Edebiyat Köşesi yazarıdır. Öğrenim yıllarının başından itibaren edebiyata ve sanata özel ilgi duyan yazar, lise yıllarında tarih ve politikayla da ilgilenmeye başlamıştır. Zaman zaman havacılık ve uzay sanayi gibi hobisel alanlar hakkında da olmak üzere, edebiyat ve tarih konularında farklı platformlarda yazılar hazırlamıştır. Tinden Fikre Edebiyat Köşesinde ruhun etkilendiği ve etkilediği durumlar, farklı sanatsal ve tarihsel bakış açılarıyla incelenecektir. Bu köşede, içeriksel başlıklara uygun olarak gerek ilkel devirlerden gelen güdülerimize, gerekse tarihi ve kültürel süreç içerisinde oluşturduğumuz bakışa değinilecektir. Köşenin hedefi bakımından, tüm içerikler toplamında, ruhumuzu etkileyen bütün bu hususlar ışığında bir gelecek tasavvuru ortaya konulmaya çalışılacaktır."
+  },
+  {
+    "id": 13,
+    "name": "Pars Asilhan Çıldır",
+    "department": "yazarlar",
+    "kose": "Havacılık Köşesi",
+    "desc": "Pars Asilhan Çıldır, güncel olarak ODTÜ Havacılık ve Uzay Mühendisliği öğrencisidir. Aborda Dergi'nin Havacılık köşesi yazarıdır. Erken yaşlarından beri matematiğe duyduğu ilgi sonraki yıllarda fizik, astronomi, mühendislik gibi alanlara da yayılmıştır. Havacılık alanında aldığı eğitim ve öğrendiği bilgiler vesilesiyle Havacılık hakkında hem teknik hem de anlaşılabilir yazılar sunmayı amaç edinmiştir. Havacılık köşesi; sivil havacılık, askeri havacılık, havacılık mühendisliği, uçak kazaları ve havacılığın daha birçok kolunu bilimsel bir bakış açışı üzerinden ele almak üzerine kurgulanmıştır. Köşenin iddiası; göklerin zorluğunu, acımasızlığının ihtişamını ve önemli yönlerini basitleştirilmiş teoriler ve formüller üzerinden okuyuculara aktarmaktır."
+  },
+  {
+    "id": 14,
+    "name": "Seymen Arslantaş",
+    "department": "yazarlar",
+    "kose": "Düşünceler Tarihi Köşesi",
+    "desc": "Seymen Arslantaş, İstanbul Üniversitesi Hukuk Fakültesinde öğrenimini sürdürmektedir. Aborda Dergi’nin Düşünceler Tarihi Köşesi Yazarıdır. Yaşamı boyunca siyaset felsefesi ve politik kuramlar üzerine araştırmalar yapmış ve siyasetin tarih boyunca nasıl şekillendiğini anlamayı, farklı siyasi ideolojileri kavramayı ve politik olayları analiz etme becerisini geliştirmeyi amaçlamıştır. Düşünceler Tarihi Köşesi; siyasi düşünce akımlarının felsefi temellerini, hangi dönemlerde hangi şartlar altında ortaya çıktıklarını, tarih boyunca nasıl şekillendiklerini, farklı düşünürler tarafından nasıl ele alındıklarını ve son olarak başka siyasi düşünce akımlarına olan etkilerini incelemeyi amaçlar."
+  },
+  {
+    "id": 15,
+    "name": "Erkan Oğuz Çenet",
+    "department": "yazarlar",
+    "kose": "Girişimcilik Köşesi",
+    "desc": "Erkan Oğuz Çenet, güncel olarak İstanbul Üniversitesi Hukuk Fakültesi'nde eğitim görmektedir. Aborda Dergi’nin Girişimcilik Köşesi yazarıdır. Çocukluğundan beri eski oyuncaklarını şehir meydanında satmaya çalışmak gibi alışkanlıkları vesilesiyle girişimciliğe ilgi duymaya başlamıştır. Lise yaşantısı süresince konu üzerine okuduğu kitaplar ve edindiği düşünceler, girişimciliğe ilişkin fikir ve tespitlerinin temelini oluşturmuştur. Küresel skaladaki girişim ve girişimci örneklerini merakla takip etmektedir. Köşenin temel çizgisi; girişimciliğin içindeki inovatif düşünce tarzını hem örnekler aracılığıyla somut bir şekilde, hem de teorik bilgiyle soyut bir şekilde işleyerek okurlara servis etmektir."
+  },
+  {
+    "id": 16,
+    "name": "Mehmet Erkam Bilici",
+    "department": "yazarlar",
+    "kose": "Arabalar Köşesi",
+    "desc": "Mehmet Erkam Bilici, güncel olarak İstanbul Üniversitesi Hukuk Fakültesi öğrencisidir. Aborda Dergi’nin Arabalar köşesi yazarıdır. Küçük yaşlardan itibaren araba tutkunluğu içeren bir ev ortamının da etkisiyle arabalar ile ilgilenmeye ve onlara olan ilgisini özümsemeye başlamıştır. Önceki yıllarda bağlantıları sayesinde sektörel olarak da uğraşma fırsatı bulmuştur. Yazar, köşede bu birikimlerini aktararak diğer araba tutkunları ile bu deneyimlerini paylaşmayı ve arabalara dair ilgiyi arttırmayı amaçlamaktadır. Arabaların tarihi gelişimi, Araba sanayisinin geleceği, sektörel dinamikler gibi konuların yanı sıra galericilik ve teknik alanlar da Arabalar Köşesinin içeriği olacaktır."
+  },
+  {
+    "id": 18,
+    "name": "Mert Cengiz",
+    "department": "yazarlar",
+    "kose": "Genetik Köşesi",
+    "desc": "Mert Cengiz, Bahçeşehir Üniversitesi Moleküler Biyoloji ve Genetik öğrencisidir. Aborda Dergi'nin Genetik Köşesi yazarıdır. Lise ve Üniversite dönemlerinde bilime olan tükenmez ve artarak devam eden merakı, bilim üzerine yazdığı başlangıç düzeyi denemeler, yaptığı araştırmalar ve katıldığı gönüllü stajlar; bilimsel esaslara dair yetkinliğini şekillendirici etkenler olmuştur. Genetik Köşesi'nin amacı; mikro ölçekte biyolojinin işleyişini, genetik mekanizmaların organizmalarda sağladığı regülasyonu, genetiğin makro ölçekte insan yaşamına etkilerini biyolojik temellere dayalı bir anlatım tarzıyla aktarmaktır. Köşenin iddiası, organizmalar için Moleküler Biyoloji ve Genetik prensiplerinin önem derecesini işaret etmek ve okurlara kendi işleyişlerini göstermektir."
+  },
+  {
+    "id": 19,
+    "name": "Burak Eren Ceyhan",
+    "department": "yazarlar",
+    "kose": "Harp Tarihi Köşesi",
+    "desc": "Burak Eren Ceyhan, güncel olarak ODTÜ Uluslararası İlişkiler bölümü öğrencisidir. Aborda Dergi'de Harp Tarihi Köşesi yazarıdır. Lise hayatında katıldığı etkinlikler ve üniversitede dahil olduğu topluluklar ile diplomasiye ve askeri stratejiye olan ana ilgisi doğmuştur. Bu içten ilgiyi çeşitli etkinlikler vasıtasıyla denemiş, lisans eğitimi ile diplomasi merakının izinden ilerlemiştir. Harp Tarihi Köşesinin temel vizyonu, vuku bulan çatışmaların ele alınması ve toplumsal, siyasal, stratejik ve kültürel etkilerine temas etmektir. İçeriklerin yorumlar eşliğinde servisi sayesinde, bilgilendiriciliğin yanında okurların ufkuna katkıda bulunma amacı da söz konusudur. Köşenin iddiası, her alanda boy gösterebilen strateji olgusunun Harp Tarihi açısından seyrine odaklanmak; yaratıcı stratejilerin, pratik zekanın, ileri görüşün ve dirayetin çatışmalar geçmişindeki konumuna ışık tutmaktır."
+  },
+  {
+    "id": 20,
+    "name": "Yılmaz Egemen Oflu",
+    "department": "yazarlar",
+    "kose": "Divan Köşesi",
+    "desc": "Yılmaz Egemen Oflu, Antalya Erünal Sosyal Bilimler Lisesi mezunudur. Aborda Dergi'nin Divan Köşesi yazarıdır. Lise hayatında Türk ve İngiliz edebiyatına, bilhassa Divan edebiyatına ilgi duymuştur. Kendisi bu çerçevede 'Seyyah Kebuter' mahlası ile divan tarzında bir çok şiir yazmış ve bazı şiirleri yerel yayın organlarında paylaşılmıştır. Divan Köşesi, esasen Osmanlı dönemine odaklanmakla beraber erken Cumhuriyet dönemi, erken İslam etkisinde ve İslam etkisi öncesi Türk edebiyatı alanlarını da inceleme kapsamına almaktadır. Bu konular; şiir tahlilleri ve şerhleri, yazar hayatları, edebi motifler ve temalar, ilginç tarihi anekdotlar ve sözcük incelemeleri ile mercek altına alınmaktadır. Divan Köşesi'nin amacı, Türk okurunu unutulmaya yüz tutmuş olan bir kültürü bilinen ve bilinmeyen yönleri ile tanıştırmaktır."
+  },
+  {
+    "id": 21,
+    "name": "Zeynep Abbasgil",
+    "department": "yazarlar",
+    "kose": "Biyoloji Köşesi",
+    "desc": "Zeynep Abbasgil, Sorbonne Üniversitesi Biyoloji Bölümü öğrencisidir. Aborda Dergi’de Biyoloji Kosesi yazarıdır. Küçüklüğünden beri biyolojiye ilgi duymuş olmakla beraber lise sürecinde katıldığı akademik faaliyetler altında biyoloji dersleri almıştır. Okuduğu makaleler, kitaplar ve akademik bakış açısını geliştiren çevresi vesilesiyle yazar; geleceği açısından özellikle hayvanlara ve nörobilime odaklanmış bir doğrultudadır. Biyoloji Köşesi, amacı itibariyle insanları doğanın harmonisi ve kendi bedenleri hakkında bilgilendirmek üzerine yazılar içermektedir. Diğer bir açıdan köşenin işlevi, biyolojiye ilgi duyan insanlara kolay ulaşılabilir şekilde bilgiler sağlamaktır."
+  },
+  {
+    "id": 22,
+    "name": "Başar Kaan Erbek",
+    "department": "yazarlar",
+    "kose": "Biyografi Köşesi",
+    "desc": "Başar Kaan Erbek, Süleyman Demirel Üniversitesi Tıp Fakültesinde öğrencisidir. Aborda Dergi’de Biyografi Köşesi yazarıdır. Çeşitli konular hakkında araştırma yapmayı seven, meraklı ve sorgulayan biridir. Pozitif bilimlerle ve tarihle ilgilidir. Biyografi Köşesi; kimi bilinen, kimi pek bilinmeyen, kimi ise insanların ismen bildiği fakat daha fazlası hakkında bilgi sahibi olmadığı insanların hayat öykülerini okuyucuların meraklı bakışlarının önüne koyma etkisine sahiptir. Köşeye konu olan insanlar ve biyografileri, oldukça bilinen ve alanında önemli bir tarihsel figürden günümüzde yaşamış sıradan bir insana kadar geniş bir skaladan seçilmektedir. Köşenin ve yazarın bu noktadaki amacı; okuyucuyu sıkmayan, günlük hayatın bunalımlı ve stresli temposundan uzaklaştırıcı ve okuyucunun genel kültürüne de olumlu katkısı olacak yazılar sunmak olarak belirmektedir."
+  },
+  {
+    "id": 23,
+    "name": "Simay Ayas",
+    "department": "yazarlar",
+    "kose": "Gündemin Hukuku Köşesi",
+    "desc": "Simay Ayas, güncel olarak Maltepe Üniversitesi Hukuk Fakültesi öğrencisidir. Lise hayatı boyunca okuma ve yazmaya özel bir ilgi duymuştur. Özellikle bu dönemde yazdığı denemeler, amatör kısa hikayeler ve yazımına devam etmekte olduğu bir romanı bulunmaktadır. Keşfetmeye olan eğilimi sayesinde araştırmacı ve yorumlayıcı bir düşünme stiline sahip olmuştur. Bu yetkinliklerini, hukuka olan ilgisiyle harmanlayarak araştırmalar yapmakta ve bilgi verici hukuki yazılar hazırlamaktadır. Gündemin Hukuku Köşesi, Yargıtay kararları ışığında edinilen bilgilere yer verilmesinin yanı sıra, güncel gelişmelerin ve dikkat çeken haberlerin hukuk diliyle açıklanmasını da içeren, farkındalık kazandırıcı nitelikte içerikler sunma doğrultusundadır."
+  },
+  {
+    "id": 24,
+    "name": "Bora Bulan",
+    "department": "yazarlar",
+    "kose": "Uluslararası İlişkiler Köşesi",
+    "desc": "Bora Bulan, güncel olarak Bilkent Üniversitesi Uluslararası İlişkiler Bölümü öğrencisidir. Aktif olarak uluslararası ilişkiler üzerine birçok sayıda etkinliğe katılmakla birlikte Aborda Dergi çatısı altında strateji ve uluslararası ilişkiler üzerine yazılar yazmaktadır. Üniversite hayatı öncesinde askerliğe, şu anda ise harp sanatına ve uluslararası ilişkiler dinamiklerine ilgi duymakla birlikte savaş stratejileri ve uluslararası ilişkiler gündemi üzerine yoğunlaşmaktadır. Uluslararası İlişkiler Köşesi yazıları, günümüzün askeri ve stratejik hamleleri ve bu atılımların tarihten süregelen devlet psikolojisiyle olan ilişkisini ortaya koyacak niteliktedir."
+  },
+  {
+    "id": 25,
+    "name": "Berat Çağan",
+    "department": "yazarlar",
+    "kose": "Jeopolitik Köşesi",
+    "desc": "Berat Çağan, İstanbul Üniversitesi Gazetecilik bölümü lisans öğrencisidir. Aborda Dergi’nin Jeopolitik Köşesi yazarıdır. Tarih ve coğrafya aşığı olmakla beraber sinema ve siyaset kültürüne yüksek raddede ilgisi vardır. Jeopolitik Köşesi'nde küresel siyasetin ve coğrafyanın karmaşık ama ilgi çekici yapısını okurlara analiz etmek amaçlanır. Ufak bir coğrafi bölgenin, hatta kimi zaman iki cephe arasındaki bir tepenin bile milyonlarca insanın hayatında ne gibi varyasyonlara sebep olduğunun konu alındığı bu köşede; karmaşanın asla bitmediği coğrafyalarda İbn-i Haldun’un o meşhur sözünün haklılığını da her daim tartışmaya ilave ederek okuyucuya aktarmak esastır."
+  },
+  {
+    "id": 26,
+    "name": "Alya Nisa Torpil",
+    "department": "yazarlar",
+    "kose": "Animalia Köşesi",
+    "desc": "Alya Nisa Torpil, Ankara Üniversitesi Veteriner Fakültesi öğrencisidir. Aborda Dergi’nin Animalia Köşesi yazarıdır. Hayvanlara olan ilgisi çocukluğuna dayanmaktadır. Lise hayatı boyunca büyük ilgi duyduğu biyoloji üzerine araştırmalar yapmış ve projelerde yer almıştır. Animalia Köşesinde, çoğunlukla evcil memeli hayvanların olması yanı sıra yabani ve egzotik hayvanların, onların iç dünyalarının ve veteriner hekimliğin daha iyi anlaşılması üzerine tasarlanmış yazılar oluşmaktadır. Hayvanların vücut dilleriyle alakalı bilgilendirici metinler paylaşılarak onların daha rahat anlaşmasını sağlamak, köşenin esas hedeflerinden birisidir. Animalia Köşesi ve yazarının gayesi, insanlara hayvanların görünenin ve duyulanın çok ötesinde anlamlar yaydığını anlatmak, aynı zamanda da veteriner hekimlerin sadece hayvan sağlığına değil, hayvanlar kadar insan sağlığına da hizmet ettiğini izah etmektir."
+  },
+  {
+    "id": 27,
+    "name": "Burak Esen",
+    "department": "yazarlar",
+    "kose": "Yoklama Defteri Köşesi",
+    "desc": "Burak Esen, İstanbul Üniversitesi - Cerrahpaşa İngilizce Öğretmenliği öğrencisi ve stajyer öğretmendir. Aborda Dergi'de Yoklama Defteri Köşesi yazarıdır. Lise hayatından beri iklim aktivizmi alanında yüttüğü çalışmalarının ulaştığı başarılar ile yakaladığı motivasyon üzerine eğitim, ekonomi, katılımcılık gibi konularda da STKlarda ve sivil insiystiflerde bulunmuştur ve bu çizgideki çalışmalarına devam etmektedir. Yazar, eğitim alanında kaleme alınan kolektif bir kitabın yazımında da yer almış ve katkı vermiştir. Yoklama Defteri Köşesi, eğitim sisteminin yoklamasının alındığı, eksik ve doğru yerlerinin gündeme alınarak çeşitli ülkeler ve düşünürlerin fikirlerinden yola çıkan bir sentez yaratmayı amaçlar. Köşe, eğitim sisteminin herkesin potansiyelini ortaya çıkarabildiği bir sistem olması gerektiği savına hakkında bilinçlendirici içerikler sunmaktadır."
+  },
+  {
+    "id": 28,
+    "name": "Eren Eroğulları",
+    "department": "gyy",
+    "kose": "Genel Yayın Yönetmeni",
+    "desc": "Eren Eroğulları - Genel Yayın Yönetmeni\n Aborda Dergi'nin alt birimleri arasındaki senkronize çalışmayı, genel anlamda yayın işleyişini ve iç düzenin sağlanmasını sağlayan birim Genel Yayın Yönetmenliğidir. Eren Eroğulları, derginin kurucu Genel Yayın Yönetmeni statüsüyle bu işleyişi sağlamakta ve organizasyona katkı sunmaktadır. Daha önceki dönemlerde küçük çaplı ve kısa süreli atılımlar ve medya/yayıncılık uğraşları ile tecrübe edinmiş olan yönetmen, Aborda ismi altında öngörülen kurumsal yapılanma ve esas alınan vizyon ile dinamik bir 'Gençlik Medyası Oyuncusu' oluşturma hedefindedir. Kendisi aynı zamanda Cumhuriyet Köşesi dahilindeki yazılarıyla da dergi içeriğine dokunuş yapmaktadır."
+  },
+  {
+    "id": 29,
+    "name": "Eray Ersan",
+    "department": "itdes",
+    "kose": "Bilişim ve Tasarım Birimi Direktörü",
+    "desc": "Eray Ersan Aborda Dergi'nin bilişim alanındaki faaliyetlerini yürütmek üzere Bilişim Birimi Direktörü görevini yerine getirmektedir. Eray Ersan İstanbul Üniversitesi Hukuk Fakültesi öğrencisidir. Eray Ersan aynı zamanda Aborda Dergi'nin internet sitesinin yazılımı aşamasında görev almıştır."
+  },
+  {
+    "id": 30,
+    "name": "Erdem Dönmezkuş",
+    "department": "editor",
+    "kose": "Editör",
+    "desc": "Erdem Dönmezkuş, Sakarya Üniversitesi Uluslararası İlişkiler bölümü mezunudur. Güncel olarak Azınlık Hakları, Karşılaştırmalı Uluslararası Siyaset, Doğu Avrupa Bölgesi Çalışmaları üzerine akademik araştırmalar yapmaktadır. Önceki dönemlerde Üniversite'nin Araştırma Merkezinde Araştırma Asistanlığı yapmıştır ve bir dergide kurumsal iletişim sorumluluğunda bulunmuştur. Aynı zamanda, yayınlanmış bulunan akademik makaleleri de mevcuttur."
+  },
+  {
+    "id": 31,
+    "name": "Ali İlhan",
+    "department": "editor",
+    "kose": "Editör",
+    "desc": "Ali Faik İlhan, Maltepe Üniversitesi Hukuk Fakültesi 4. sınıf öğrencisidir. Daha önce dergi çıkarmış olma tecrübesinin yanında, güncel olarak bilim ve evrim temalı mecralarda yazarlık yapmaktadır. Çalıştığı hukuk dalları haricinde sosyobiyoloji, etoloji, iktisat ve antropoloji üzerine akademik çalışmalarına devam etmektedir."
+  },
+  {
+    "id": 32,
+    "name": "Çağrı Eker",
+    "department": "editor",
+    "kose": "Editör",
+    "desc": "Çağrı Eker Marmara Üniversitesi Siyasal Bilgiler Fakültesi Yerel Yönetimler bölümünde öğrenim görmektedir. Göç Araştırmaları Vakfı’nda Göç ve Diaspora Çalışmaları, İç Göç ve Segregasyon Politikaları üzerine araştırmalar yapmıştır. Haricen yerel siyaset, mahalli idareler, kamu yönetimi ve yönetim bilimi, kent araştırmaları ve kent sosyolojisi üzerine çalışmaları mevcuttur."
+  },
+  {
+    "id": 33,
+    "name": "Simay Ayas",
+    "department": "editor",
+    "kose": "Editör",
+    "desc": "Simay Ayas, Maltepe Üniversitesi Hukuk Fakültesi 4. Sınıf öğrencisidir. Güncel olarak Ceza hukuku ve ticaret hukuku üzerine araştırmalar yapmaktadır. Aynı zamanda güncel Yargıtay kararlarını takip ederek somut olaylar üzerinden değerlendirmekte ve gündelik olaylara indirgemektedir. Ceza ve ticaret hukuku üzerine stajlarına devam etmektedir. Halihazırda sonlandırmaya yaklaştığı romanı mevcuttur."
+  },
+  {
+    "id": 34,
+    "name": "Alara Büşra Ergen",
+    "department": "editor",
+    "kose": "Editör",
+    "desc": "Alara Büşra Ergen, Marmara Üniversitesi Fransızca Siyaset Bilimi ve Kamu Yönetimi bölümü öğrencisidir. Yayıncılık dünyasında öncü konumdaki bir takım dergilerde içerik yazarlığı yapmış; lise döneminden itibaren yakından ilgilendiği Kültür Sanat, Avrupa ve Uygarlık Tarihi gibi alanlarda çeşitli yazıları yayımlanmıştır. Yazarlığın yanı sıra profesyonel anlamda Haber Editörü pozisyonunda çalışmıştır. Fransızca ve İngilizce dil yeterlilikleriyle bağlantılı olarak çeşitli alanlara yönelik makale ve yazı incelemeleri mevcuttur."
+  },
+  {
+    "id": 35,
+    "name": "Utkucan Uğur",
+    "department": "itdes",
+    "kose": "Bilişim ve Tasarım Birimi Üyesi",
+    "desc": "Utkucan Uğur, Lokman Hekim Üniversitesi Dil ve Konuşma Terapisi Bölümü öğrencisidir. Çeşitli konferanslarda ve projelerde yer alarak website tasarımı/düzenlemesi alanlarında katkı sunmuştur. Bu faaliyetlerinin yanı sıra çeşitli etkinliklerin bilişim ekiplerinde de yer almıştır. Güncel olarak Aborda Dergi bünyesindeki Bilişim Ekibinde yer almaktadır."
+  },
+  {
+    "id": 36,
+    "name": "Mehmed Ali Oktay",
+    "department": "itdes",
+    "kose": "Bilişim ve Tasarım Birimi Üyesi",
+    "desc": "Mehmed Ali Oktay, Erünal Sosyal Bilimler Lisesi öğrencisidir. Tasarım ve medya yönetimi alanında konferans ve sosyal etkinliklerde rol almıştır. Aborda Dergi'nin Bilişim ve Tasarım biriminde yer almaktadır."
+  }
 ]
