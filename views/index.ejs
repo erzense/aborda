@@ -15,7 +15,7 @@
     <%- include('partials/navbar') %>
     <div class="magazine-cover">
       <% if (magazines.length > 0) { %>
-      <a href="<%= magazines[magazines.length - 1].link %>"
+      <a href="<%= magazines[magazines.length - 1].link %>" target="_blank"
         ><img src="<%= magazines[magazines.length - 1].image %>" alt=""
       /></a>
       <% } %>
